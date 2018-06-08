@@ -1,0 +1,6 @@
+How many commits are in this repository (in total; in all branches)?
+29
+When was the line #10 in the file index.html last changed and who is the author of that commit?
+7 May by Stopa
+What is the commit message of the commit with the hash 865cbc8?
+Added travis config file
