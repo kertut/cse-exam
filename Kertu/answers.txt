@@ -1,6 +1,9 @@
 How many commits are in this repository (in total; in all branches)?
 29
+git shortlog
 When was the line #10 in the file index.html last changed and who is the author of that commit?
-7 May by Stopa
+Stepan Bolotnikov 2018-05-07
+git blame -L 10 index.html
 What is the commit message of the commit with the hash 865cbc8?
 Added travis config file
+git show 865cbc8
